@@ -1,7 +1,6 @@
 Easy2DBlog
 ==========
 
-<<<<<<< HEAD
 Marmalade sample projects to get you started with 2D game development using the Marmalade SDK.
 These example projects accompany the [Easy 2D using the Marmalade SDK](http://www.madewithmarmalade.com).
 
@@ -20,6 +19,3 @@ This repository contains the following examples:
 * Shapes - Shows how to use Marmalade's Iw2D module to draw 2D shapes
 * Images - Shows how to use Marmalade's Iw2D module to load and draw 2D images
 * Sprites - Shows how to create a game object class that can display image based game objects
-=======
-Code that accompanies the Easy 2D blog.
->>>>>>> origin/master
