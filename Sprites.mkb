@@ -1,0 +1,25 @@
+#!/usr/bin/env mkb
+# options
+options
+{
+}
+
+# sub projects
+subprojects
+{
+	iw2d
+}
+
+# Source files
+files
+{
+	Sprites.cpp
+}
+
+# Data files
+files
+{
+	(data)
+	ball.png
+}
+

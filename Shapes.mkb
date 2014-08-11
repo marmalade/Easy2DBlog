@@ -1,0 +1,23 @@
+#!/usr/bin/env mkb
+# options
+options
+{
+}
+
+# sub projects
+subprojects
+{
+	iw2d
+}
+
+# Source files
+files
+{
+	Shapes.cpp
+}
+
+# Data files
+files
+{
+}
+
