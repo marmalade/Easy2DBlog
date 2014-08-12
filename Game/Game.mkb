@@ -26,5 +26,6 @@ files
     (data)
     ball.png
     hit.wav
+    wrong.wav
 }
 
