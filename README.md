@@ -2,7 +2,7 @@ Easy2D using Marmalade C++
 ==========================
 
 Sample projects to get you started with 2D game development using the Marmalade SDK.
-These example projects accompany the [Easy 2D using Marmalade C++](https://www.madewithmarmalade.com/blog/easy-2d-using-marmalade-c-part-1) blog.
+These example projects accompany the [Easy 2D using Marmalade C++](https://www.madewithmarmalade.com/blog/easy-2d-using-marmalade-c-%E2%80%93-part-1) blog.
 
 Getting started with Marmalade
 ------------------------------
