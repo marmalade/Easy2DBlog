@@ -1,0 +1,25 @@
+#!/usr/bin/env mkb
+
+subprojects
+{
+    iw2d
+    SoundEngine
+}
+
+includepath
+{
+    .
+}
+
+files
+{
+    Audio.cpp
+    Audio.h
+    Input.cpp
+    Input.h
+    Scene.cpp
+    Scene.h
+    Sprite.cpp
+    Sprite.h
+}
+

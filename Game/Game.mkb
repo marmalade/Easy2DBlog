@@ -1,0 +1,30 @@
+#!/usr/bin/env mkb
+# options
+options
+{
+}
+
+# sub projects
+subprojects
+{
+    engine
+}
+
+# Source files
+files
+{
+    Ball.cpp
+    Ball.h
+    GameScene.cpp
+    GameScene.h
+    Game.cpp
+}
+
+# Data files
+files
+{
+    (data)
+    ball.png
+    hit.wav
+}
+
