@@ -64,8 +64,6 @@ int main()
         s3eDeviceYield(yield);	// Yield to OS
     }
 
-    // Clean up sprite manager
-
     // Cleanup
     scene->Release();
     delete scene;
